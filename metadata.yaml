@@ -1,4 +1,4 @@
 homepage: "https://www.data-marketing-school.com"
 versions:
-  - sha: d0fb37aa2f8be751dc353507e1cf615e665675b8
+  - sha: c6148b426c48cb9e10b9dba7623c7b85787e5889
     changeNotes: Initial release.
