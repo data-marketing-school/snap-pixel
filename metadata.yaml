@@ -1,4 +1,10 @@
 homepage: "https://www.data-marketing-school.com"
 versions:
+  - sha: 943756adf5b1179f21fd6250e5211cfc9a99256d
+    changeNotes: Add categories and description
   - sha: c6148b426c48cb9e10b9dba7623c7b85787e5889
+    changeNotes: Add event parameters + inherit from dataLayer
+  - sha: d0fb37aa2f8be751dc353507e1cf615e665675b8
+    changeNotes: Add categories and description
+  - sha: db7f6953f2904f7536b78d54cb3925dd35ba1e04
     changeNotes: Initial release.
