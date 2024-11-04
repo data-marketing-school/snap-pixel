@@ -1,4 +1,5 @@
 homepage: "https://www.data-marketing-school.com"
+documentation: "https://data-marketing-school.com/en/blog/google-tag-manager/snap-pixel/"
 versions:
   - sha: 943756adf5b1179f21fd6250e5211cfc9a99256d
     changeNotes: Add categories and description
